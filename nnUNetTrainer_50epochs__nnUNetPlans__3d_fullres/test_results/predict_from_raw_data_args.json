@@ -1,0 +1,26 @@
+{
+    "checkpoint_name": "checkpoint_final.pth",
+    "device": "cuda:0",
+    "folder_with_segs_from_prev_stage": null,
+    "list_of_lists_or_source_folder": "/data_hdd/users/zengzhilin/nnUNet_raw/Dataset004_Hippocampus/imagesTs",
+    "model_training_output_dir": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres",
+    "num_parts": 1,
+    "num_processes_preprocessing": 3,
+    "num_processes_segmentation_export": 3,
+    "output_folder": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/test_results",
+    "overwrite": true,
+    "part_id": 0,
+    "perform_everything_on_gpu": true,
+    "save_probabilities": false,
+    "tile_step_size": 0.5,
+    "use_folds": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "use_gaussian": true,
+    "use_mirroring": true,
+    "verbose": false
+}

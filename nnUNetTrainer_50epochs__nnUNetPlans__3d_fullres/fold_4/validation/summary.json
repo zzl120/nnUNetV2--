@@ -1,0 +1,1388 @@
+{
+    "foreground_mean": {
+        "Dice": 0.8933860811423086,
+        "FN": 164.26923076923077,
+        "FP": 189.2980769230769,
+        "IoU": 0.8089929489602317,
+        "TN": 61630.43269230769,
+        "TP": 1499.7884615384614,
+        "n_pred": 1689.0865384615386,
+        "n_ref": 1664.0576923076924
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.9016124706420161,
+            "FN": 157.76923076923077,
+            "FP": 190.07692307692307,
+            "IoU": 0.8222804844859811,
+            "TN": 61538.230769230766,
+            "TP": 1597.7115384615386,
+            "n_pred": 1787.7884615384614,
+            "n_ref": 1755.4807692307693
+        },
+        "2": {
+            "Dice": 0.885159691642601,
+            "FN": 170.76923076923077,
+            "FP": 188.51923076923077,
+            "IoU": 0.7957054134344823,
+            "TN": 61722.63461538462,
+            "TP": 1401.8653846153845,
+            "n_pred": 1590.3846153846155,
+            "n_ref": 1572.6346153846155
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.918903803131991,
+                    "FN": 82,
+                    "FP": 208,
+                    "IoU": 0.8499741334712881,
+                    "TN": 67187,
+                    "TP": 1643,
+                    "n_pred": 1851,
+                    "n_ref": 1725
+                },
+                "2": {
+                    "Dice": 0.8989769820971867,
+                    "FN": 117,
+                    "FP": 199,
+                    "IoU": 0.8164924506387921,
+                    "TN": 67398,
+                    "TP": 1406,
+                    "n_pred": 1605,
+                    "n_ref": 1523
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_008.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.869608084791718,
+                    "FN": 253,
+                    "FP": 276,
+                    "IoU": 0.7692978630614915,
+                    "TN": 75707,
+                    "TP": 1764,
+                    "n_pred": 2040,
+                    "n_ref": 2017
+                },
+                "2": {
+                    "Dice": 0.8111718275652702,
+                    "FN": 269,
+                    "FP": 353,
+                    "IoU": 0.6823289070480082,
+                    "TN": 76042,
+                    "TP": 1336,
+                    "n_pred": 1689,
+                    "n_ref": 1605
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_014.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_014.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8972997922917147,
+                    "FN": 202,
+                    "FP": 243,
+                    "IoU": 0.8137295939723734,
+                    "TN": 68819,
+                    "TP": 1944,
+                    "n_pred": 2187,
+                    "n_ref": 2146
+                },
+                "2": {
+                    "Dice": 0.8876216034887622,
+                    "FN": 142,
+                    "FP": 193,
+                    "IoU": 0.7979493365500603,
+                    "TN": 69550,
+                    "TP": 1323,
+                    "n_pred": 1516,
+                    "n_ref": 1465
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_020.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_020.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9256417041545383,
+                    "FN": 157,
+                    "FP": 124,
+                    "IoU": 0.861576354679803,
+                    "TN": 67234,
+                    "TP": 1749,
+                    "n_pred": 1873,
+                    "n_ref": 1906
+                },
+                "2": {
+                    "Dice": 0.9206049149338374,
+                    "FN": 78,
+                    "FP": 174,
+                    "IoU": 0.8528896672504378,
+                    "TN": 67551,
+                    "TP": 1461,
+                    "n_pred": 1635,
+                    "n_ref": 1539
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_040.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_040.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9454081632653061,
+                    "FN": 104,
+                    "FP": 110,
+                    "IoU": 0.8964683115626512,
+                    "TN": 55237,
+                    "TP": 1853,
+                    "n_pred": 1963,
+                    "n_ref": 1957
+                },
+                "2": {
+                    "Dice": 0.8880397401604891,
+                    "FN": 153,
+                    "FP": 140,
+                    "IoU": 0.7986254295532647,
+                    "TN": 55849,
+                    "TP": 1162,
+                    "n_pred": 1302,
+                    "n_ref": 1315
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_048.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9097944377267231,
+                    "FN": 142,
+                    "FP": 231,
+                    "IoU": 0.8345164152617569,
+                    "TN": 68502,
+                    "TP": 1881,
+                    "n_pred": 2112,
+                    "n_ref": 2023
+                },
+                "2": {
+                    "Dice": 0.9219498450267681,
+                    "FN": 172,
+                    "FP": 105,
+                    "IoU": 0.8552012545739676,
+                    "TN": 68843,
+                    "TP": 1636,
+                    "n_pred": 1741,
+                    "n_ref": 1808
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_050.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_050.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9042357274401474,
+                    "FN": 177,
+                    "FP": 135,
+                    "IoU": 0.8252100840336134,
+                    "TN": 64260,
+                    "TP": 1473,
+                    "n_pred": 1608,
+                    "n_ref": 1650
+                },
+                "2": {
+                    "Dice": 0.9117971334068358,
+                    "FN": 215,
+                    "FP": 105,
+                    "IoU": 0.8378926038500507,
+                    "TN": 64071,
+                    "TP": 1654,
+                    "n_pred": 1759,
+                    "n_ref": 1869
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_053.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_053.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.891644908616188,
+                    "FN": 24,
+                    "FP": 308,
+                    "IoU": 0.8044758539458187,
+                    "TN": 58992,
+                    "TP": 1366,
+                    "n_pred": 1674,
+                    "n_ref": 1390
+                },
+                "2": {
+                    "Dice": 0.8861121028204213,
+                    "FN": 142,
+                    "FP": 177,
+                    "IoU": 0.7955128205128205,
+                    "TN": 59130,
+                    "TP": 1241,
+                    "n_pred": 1418,
+                    "n_ref": 1383
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_057.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_057.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8778330569375346,
+                    "FN": 307,
+                    "FP": 135,
+                    "IoU": 0.7822660098522167,
+                    "TN": 68270,
+                    "TP": 1588,
+                    "n_pred": 1723,
+                    "n_ref": 1895
+                },
+                "2": {
+                    "Dice": 0.8501547987616099,
+                    "FN": 182,
+                    "FP": 302,
+                    "IoU": 0.7393645665051157,
+                    "TN": 68443,
+                    "TP": 1373,
+                    "n_pred": 1675,
+                    "n_ref": 1555
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_070.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_070.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9313033791310806,
+                    "FN": 135,
+                    "FP": 50,
+                    "IoU": 0.8714384989576095,
+                    "TN": 51805,
+                    "TP": 1254,
+                    "n_pred": 1304,
+                    "n_ref": 1389
+                },
+                "2": {
+                    "Dice": 0.9026392961876832,
+                    "FN": 133,
+                    "FP": 199,
+                    "IoU": 0.8225547835382149,
+                    "TN": 51373,
+                    "TP": 1539,
+                    "n_pred": 1738,
+                    "n_ref": 1672
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_091.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_091.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.931047619047619,
+                    "FN": 132,
+                    "FP": 49,
+                    "IoU": 0.8709907341411262,
+                    "TN": 58981,
+                    "TP": 1222,
+                    "n_pred": 1271,
+                    "n_ref": 1354
+                },
+                "2": {
+                    "Dice": 0.9158527422990232,
+                    "FN": 180,
+                    "FP": 44,
+                    "IoU": 0.8447678447678447,
+                    "TN": 58941,
+                    "TP": 1219,
+                    "n_pred": 1263,
+                    "n_ref": 1399
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_097.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_097.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8624720218851032,
+                    "FN": 487,
+                    "FP": 66,
+                    "IoU": 0.7581985133362483,
+                    "TN": 70058,
+                    "TP": 1734,
+                    "n_pred": 1800,
+                    "n_ref": 2221
+                },
+                "2": {
+                    "Dice": 0.8616927160129755,
+                    "FN": 135,
+                    "FP": 334,
+                    "IoU": 0.7569948186528498,
+                    "TN": 70415,
+                    "TP": 1461,
+                    "n_pred": 1795,
+                    "n_ref": 1596
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_104.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_104.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9128081779915814,
+                    "FN": 88,
+                    "FP": 202,
+                    "IoU": 0.8396017699115044,
+                    "TN": 77117,
+                    "TP": 1518,
+                    "n_pred": 1720,
+                    "n_ref": 1606
+                },
+                "2": {
+                    "Dice": 0.9273670557717251,
+                    "FN": 101,
+                    "FP": 123,
+                    "IoU": 0.8645707376058042,
+                    "TN": 77271,
+                    "TP": 1430,
+                    "n_pred": 1553,
+                    "n_ref": 1531
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_124.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_124.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9322033898305084,
+                    "FN": 114,
+                    "FP": 174,
+                    "IoU": 0.873015873015873,
+                    "TN": 62522,
+                    "TP": 1980,
+                    "n_pred": 2154,
+                    "n_ref": 2094
+                },
+                "2": {
+                    "Dice": 0.918825561312608,
+                    "FN": 59,
+                    "FP": 223,
+                    "IoU": 0.8498402555910544,
+                    "TN": 62912,
+                    "TP": 1596,
+                    "n_pred": 1819,
+                    "n_ref": 1655
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_127.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_127.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9386617100371747,
+                    "FN": 57,
+                    "FP": 141,
+                    "IoU": 0.8844133099824869,
+                    "TN": 70287,
+                    "TP": 1515,
+                    "n_pred": 1656,
+                    "n_ref": 1572
+                },
+                "2": {
+                    "Dice": 0.9285094066570189,
+                    "FN": 75,
+                    "FP": 172,
+                    "IoU": 0.8665586169638033,
+                    "TN": 70149,
+                    "TP": 1604,
+                    "n_pred": 1776,
+                    "n_ref": 1679
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_132.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_132.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9331713244228432,
+                    "FN": 19,
+                    "FP": 146,
+                    "IoU": 0.8747152619589977,
+                    "TN": 60507,
+                    "TP": 1152,
+                    "n_pred": 1298,
+                    "n_ref": 1171
+                },
+                "2": {
+                    "Dice": 0.9209202012940331,
+                    "FN": 82,
+                    "FP": 138,
+                    "IoU": 0.8534310459693538,
+                    "TN": 60323,
+                    "TP": 1281,
+                    "n_pred": 1419,
+                    "n_ref": 1363
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_138.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_138.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9220095693779904,
+                    "FN": 90,
+                    "FP": 236,
+                    "IoU": 0.8553040390590324,
+                    "TN": 56499,
+                    "TP": 1927,
+                    "n_pred": 2163,
+                    "n_ref": 2017
+                },
+                "2": {
+                    "Dice": 0.9073587385019711,
+                    "FN": 124,
+                    "FP": 158,
+                    "IoU": 0.830426939266386,
+                    "TN": 57089,
+                    "TP": 1381,
+                    "n_pred": 1539,
+                    "n_ref": 1505
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_146.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_146.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9398749398749399,
+                    "FN": 167,
+                    "FP": 83,
+                    "IoU": 0.8865698729582577,
+                    "TN": 68392,
+                    "TP": 1954,
+                    "n_pred": 2037,
+                    "n_ref": 2121
+                },
+                "2": {
+                    "Dice": 0.9364781559903511,
+                    "FN": 126,
+                    "FP": 111,
+                    "IoU": 0.8805443548387096,
+                    "TN": 68612,
+                    "TP": 1747,
+                    "n_pred": 1858,
+                    "n_ref": 1873
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_152.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_152.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.922805987672439,
+                    "FN": 110,
+                    "FP": 153,
+                    "IoU": 0.8566757493188011,
+                    "TN": 43249,
+                    "TP": 1572,
+                    "n_pred": 1725,
+                    "n_ref": 1682
+                },
+                "2": {
+                    "Dice": 0.8895348837209303,
+                    "FN": 240,
+                    "FP": 64,
+                    "IoU": 0.8010471204188482,
+                    "TN": 43556,
+                    "TP": 1224,
+                    "n_pred": 1288,
+                    "n_ref": 1464
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_160.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_160.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8686797752808989,
+                    "FN": 74,
+                    "FP": 300,
+                    "IoU": 0.7678460583488517,
+                    "TN": 63669,
+                    "TP": 1237,
+                    "n_pred": 1537,
+                    "n_ref": 1311
+                },
+                "2": {
+                    "Dice": 0.862144420131291,
+                    "FN": 180,
+                    "FP": 261,
+                    "IoU": 0.7576923076923077,
+                    "TN": 63460,
+                    "TP": 1379,
+                    "n_pred": 1640,
+                    "n_ref": 1559
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_170.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_170.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9247524752475248,
+                    "FN": 113,
+                    "FP": 191,
+                    "IoU": 0.860036832412523,
+                    "TN": 56852,
+                    "TP": 1868,
+                    "n_pred": 2059,
+                    "n_ref": 1981
+                },
+                "2": {
+                    "Dice": 0.8994871794871795,
+                    "FN": 188,
+                    "FP": 204,
+                    "IoU": 0.8173345759552656,
+                    "TN": 56878,
+                    "TP": 1754,
+                    "n_pred": 1958,
+                    "n_ref": 1942
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_172.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_172.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9093239346363345,
+                    "FN": 120,
+                    "FP": 163,
+                    "IoU": 0.8337250293772033,
+                    "TN": 57658,
+                    "TP": 1419,
+                    "n_pred": 1582,
+                    "n_ref": 1539
+                },
+                "2": {
+                    "Dice": 0.8839545334390695,
+                    "FN": 346,
+                    "FP": 93,
+                    "IoU": 0.7920416864045476,
+                    "TN": 57249,
+                    "TP": 1672,
+                    "n_pred": 1765,
+                    "n_ref": 2018
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_173.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_173.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9197431781701445,
+                    "FN": 78,
+                    "FP": 122,
+                    "IoU": 0.8514115898959881,
+                    "TN": 61794,
+                    "TP": 1146,
+                    "n_pred": 1268,
+                    "n_ref": 1224
+                },
+                "2": {
+                    "Dice": 0.912145607280364,
+                    "FN": 187,
+                    "FP": 64,
+                    "IoU": 0.8384813384813384,
+                    "TN": 61586,
+                    "TP": 1303,
+                    "n_pred": 1367,
+                    "n_ref": 1490
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_178.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_178.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9054930058000682,
+                    "FN": 70,
+                    "FP": 207,
+                    "IoU": 0.8273067331670823,
+                    "TN": 58336,
+                    "TP": 1327,
+                    "n_pred": 1534,
+                    "n_ref": 1397
+                },
+                "2": {
+                    "Dice": 0.8858024691358025,
+                    "FN": 133,
+                    "FP": 163,
+                    "IoU": 0.7950138504155124,
+                    "TN": 58496,
+                    "TP": 1148,
+                    "n_pred": 1311,
+                    "n_ref": 1281
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_180.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_180.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9429078913981223,
+                    "FN": 105,
+                    "FP": 120,
+                    "IoU": 0.8919827172347575,
+                    "TN": 62597,
+                    "TP": 1858,
+                    "n_pred": 1978,
+                    "n_ref": 1963
+                },
+                "2": {
+                    "Dice": 0.9118558152633061,
+                    "FN": 110,
+                    "FP": 203,
+                    "IoU": 0.837991718426501,
+                    "TN": 62748,
+                    "TP": 1619,
+                    "n_pred": 1822,
+                    "n_ref": 1729
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_181.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_181.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8761904761904762,
+                    "FN": 112,
+                    "FP": 265,
+                    "IoU": 0.7796610169491526,
+                    "TN": 70217,
+                    "TP": 1334,
+                    "n_pred": 1599,
+                    "n_ref": 1446
+                },
+                "2": {
+                    "Dice": 0.9080636877247047,
+                    "FN": 160,
+                    "FP": 198,
+                    "IoU": 0.8316086547507056,
+                    "TN": 69802,
+                    "TP": 1768,
+                    "n_pred": 1966,
+                    "n_ref": 1928
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_188.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_188.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9298147108366086,
+                    "FN": 125,
+                    "FP": 125,
+                    "IoU": 0.8688352570828961,
+                    "TN": 53744,
+                    "TP": 1656,
+                    "n_pred": 1781,
+                    "n_ref": 1781
+                },
+                "2": {
+                    "Dice": 0.9148302561048243,
+                    "FN": 138,
+                    "FP": 148,
+                    "IoU": 0.8430296377607025,
+                    "TN": 53828,
+                    "TP": 1536,
+                    "n_pred": 1684,
+                    "n_ref": 1674
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_189.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_189.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9420289855072463,
+                    "FN": 94,
+                    "FP": 114,
+                    "IoU": 0.8904109589041096,
+                    "TN": 58180,
+                    "TP": 1690,
+                    "n_pred": 1804,
+                    "n_ref": 1784
+                },
+                "2": {
+                    "Dice": 0.9364420312999042,
+                    "FN": 127,
+                    "FP": 72,
+                    "IoU": 0.8804804804804804,
+                    "TN": 58413,
+                    "TP": 1466,
+                    "n_pred": 1538,
+                    "n_ref": 1593
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_197.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_197.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9331645569620253,
+                    "FN": 144,
+                    "FP": 120,
+                    "IoU": 0.874703369719981,
+                    "TN": 59108,
+                    "TP": 1843,
+                    "n_pred": 1963,
+                    "n_ref": 1987
+                },
+                "2": {
+                    "Dice": 0.9165858389912707,
+                    "FN": 197,
+                    "FP": 147,
+                    "IoU": 0.8460161145926589,
+                    "TN": 58981,
+                    "TP": 1890,
+                    "n_pred": 2037,
+                    "n_ref": 2087
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_207.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_207.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8831448572967151,
+                    "FN": 106,
+                    "FP": 328,
+                    "IoU": 0.7907425265188043,
+                    "TN": 64566,
+                    "TP": 1640,
+                    "n_pred": 1968,
+                    "n_ref": 1746
+                },
+                "2": {
+                    "Dice": 0.8605341246290801,
+                    "FN": 241,
+                    "FP": 276,
+                    "IoU": 0.7552083333333334,
+                    "TN": 64528,
+                    "TP": 1595,
+                    "n_pred": 1871,
+                    "n_ref": 1836
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_212.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_212.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9472834857450242,
+                    "FN": 121,
+                    "FP": 75,
+                    "IoU": 0.8998467041389883,
+                    "TN": 54491,
+                    "TP": 1761,
+                    "n_pred": 1836,
+                    "n_ref": 1882
+                },
+                "2": {
+                    "Dice": 0.9169370538611291,
+                    "FN": 147,
+                    "FP": 109,
+                    "IoU": 0.8466147393648892,
+                    "TN": 54779,
+                    "TP": 1413,
+                    "n_pred": 1522,
+                    "n_ref": 1560
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_216.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_216.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7913096695226438,
+                    "FN": 398,
+                    "FP": 284,
+                    "IoU": 0.6546835443037975,
+                    "TN": 58001,
+                    "TP": 1293,
+                    "n_pred": 1577,
+                    "n_ref": 1691
+                },
+                "2": {
+                    "Dice": 0.8092165898617512,
+                    "FN": 115,
+                    "FP": 299,
+                    "IoU": 0.6795665634674922,
+                    "TN": 58684,
+                    "TP": 878,
+                    "n_pred": 1177,
+                    "n_ref": 993
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_222.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_222.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8699726669269816,
+                    "FN": 250,
+                    "FP": 83,
+                    "IoU": 0.7698686938493434,
+                    "TN": 44249,
+                    "TP": 1114,
+                    "n_pred": 1197,
+                    "n_ref": 1364
+                },
+                "2": {
+                    "Dice": 0.8506930693069307,
+                    "FN": 108,
+                    "FP": 269,
+                    "IoU": 0.7401791867677464,
+                    "TN": 44245,
+                    "TP": 1074,
+                    "n_pred": 1343,
+                    "n_ref": 1182
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_226.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_226.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9208558906934777,
+                    "FN": 193,
+                    "FP": 114,
+                    "IoU": 0.8533205924510272,
+                    "TN": 58819,
+                    "TP": 1786,
+                    "n_pred": 1900,
+                    "n_ref": 1979
+                },
+                "2": {
+                    "Dice": 0.9145569620253164,
+                    "FN": 112,
+                    "FP": 158,
+                    "IoU": 0.8425655976676385,
+                    "TN": 59197,
+                    "TP": 1445,
+                    "n_pred": 1603,
+                    "n_ref": 1557
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_227.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_227.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9009584664536742,
+                    "FN": 110,
+                    "FP": 169,
+                    "IoU": 0.8197674418604651,
+                    "TN": 52247,
+                    "TP": 1269,
+                    "n_pred": 1438,
+                    "n_ref": 1379
+                },
+                "2": {
+                    "Dice": 0.9004276114844227,
+                    "FN": 244,
+                    "FP": 82,
+                    "IoU": 0.8188888888888889,
+                    "TN": 51995,
+                    "TP": 1474,
+                    "n_pred": 1556,
+                    "n_ref": 1718
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_260.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_260.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8779373368146214,
+                    "FN": 114,
+                    "FP": 260,
+                    "IoU": 0.7824316463059918,
+                    "TN": 66881,
+                    "TP": 1345,
+                    "n_pred": 1605,
+                    "n_ref": 1459
+                },
+                "2": {
+                    "Dice": 0.8386902973866026,
+                    "FN": 312,
+                    "FP": 225,
+                    "IoU": 0.7221934816347646,
+                    "TN": 66667,
+                    "TP": 1396,
+                    "n_pred": 1621,
+                    "n_ref": 1708
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_290.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_290.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9011700273836196,
+                    "FN": 101,
+                    "FP": 296,
+                    "IoU": 0.8201178069777979,
+                    "TN": 63001,
+                    "TP": 1810,
+                    "n_pred": 2106,
+                    "n_ref": 1911
+                },
+                "2": {
+                    "Dice": 0.899546338302009,
+                    "FN": 180,
+                    "FP": 130,
+                    "IoU": 0.817432273262662,
+                    "TN": 63510,
+                    "TP": 1388,
+                    "n_pred": 1518,
+                    "n_ref": 1568
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_292.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_292.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8681706985593911,
+                    "FN": 201,
+                    "FP": 284,
+                    "IoU": 0.7670509125840538,
+                    "TN": 58968,
+                    "TP": 1597,
+                    "n_pred": 1881,
+                    "n_ref": 1798
+                },
+                "2": {
+                    "Dice": 0.8484848484848485,
+                    "FN": 121,
+                    "FP": 214,
+                    "IoU": 0.7368421052631579,
+                    "TN": 59777,
+                    "TP": 938,
+                    "n_pred": 1152,
+                    "n_ref": 1059
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_298.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_298.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8724018475750578,
+                    "FN": 186,
+                    "FP": 256,
+                    "IoU": 0.7736815156169995,
+                    "TN": 62760,
+                    "TP": 1511,
+                    "n_pred": 1767,
+                    "n_ref": 1697
+                },
+                "2": {
+                    "Dice": 0.830939226519337,
+                    "FN": 118,
+                    "FP": 341,
+                    "IoU": 0.7107750472589792,
+                    "TN": 63126,
+                    "TP": 1128,
+                    "n_pred": 1469,
+                    "n_ref": 1246
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_314.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_314.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8484685652874798,
+                    "FN": 400,
+                    "FP": 164,
+                    "IoU": 0.7368175454969669,
+                    "TN": 63939,
+                    "TP": 1579,
+                    "n_pred": 1743,
+                    "n_ref": 1979
+                },
+                "2": {
+                    "Dice": 0.8212051366480079,
+                    "FN": 224,
+                    "FP": 319,
+                    "IoU": 0.6966480446927374,
+                    "TN": 64292,
+                    "TP": 1247,
+                    "n_pred": 1566,
+                    "n_ref": 1471
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_322.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_322.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8690504380771963,
+                    "FN": 300,
+                    "FP": 253,
+                    "IoU": 0.768425460636516,
+                    "TN": 69936,
+                    "TP": 1835,
+                    "n_pred": 2088,
+                    "n_ref": 2135
+                },
+                "2": {
+                    "Dice": 0.8594670406732118,
+                    "FN": 316,
+                    "FP": 185,
+                    "IoU": 0.7535661583866208,
+                    "TN": 70291,
+                    "TP": 1532,
+                    "n_pred": 1717,
+                    "n_ref": 1848
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_326.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_326.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8467741935483871,
+                    "FN": 192,
+                    "FP": 188,
+                    "IoU": 0.7342657342657343,
+                    "TN": 56098,
+                    "TP": 1050,
+                    "n_pred": 1238,
+                    "n_ref": 1242
+                },
+                "2": {
+                    "Dice": 0.8121428571428572,
+                    "FN": 299,
+                    "FP": 227,
+                    "IoU": 0.6837041491280818,
+                    "TN": 55865,
+                    "TP": 1137,
+                    "n_pred": 1364,
+                    "n_ref": 1436
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_334.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_334.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.913312693498452,
+                    "FN": 117,
+                    "FP": 163,
+                    "IoU": 0.8404558404558404,
+                    "TN": 59425,
+                    "TP": 1475,
+                    "n_pred": 1638,
+                    "n_ref": 1592
+                },
+                "2": {
+                    "Dice": 0.8565878925218517,
+                    "FN": 295,
+                    "FP": 148,
+                    "IoU": 0.7491506228765572,
+                    "TN": 59414,
+                    "TP": 1323,
+                    "n_pred": 1471,
+                    "n_ref": 1618
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_340.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_340.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8666215301286392,
+                    "FN": 135,
+                    "FP": 259,
+                    "IoU": 0.7646356033452808,
+                    "TN": 48918,
+                    "TP": 1280,
+                    "n_pred": 1539,
+                    "n_ref": 1415
+                },
+                "2": {
+                    "Dice": 0.8579752367079388,
+                    "FN": 162,
+                    "FP": 228,
+                    "IoU": 0.7512755102040817,
+                    "TN": 49024,
+                    "TP": 1178,
+                    "n_pred": 1406,
+                    "n_ref": 1340
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_353.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_353.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8793388429752066,
+                    "FN": 84,
+                    "FP": 500,
+                    "IoU": 0.7846607669616519,
+                    "TN": 73212,
+                    "TP": 2128,
+                    "n_pred": 2628,
+                    "n_ref": 2212
+                },
+                "2": {
+                    "Dice": 0.8637186449444013,
+                    "FN": 269,
+                    "FP": 258,
+                    "IoU": 0.760127446517979,
+                    "TN": 73727,
+                    "TP": 1670,
+                    "n_pred": 1928,
+                    "n_ref": 1939
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_367.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_367.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8785357737104825,
+                    "FN": 217,
+                    "FP": 440,
+                    "IoU": 0.7833827893175074,
+                    "TN": 80567,
+                    "TP": 2376,
+                    "n_pred": 2816,
+                    "n_ref": 2593
+                },
+                "2": {
+                    "Dice": 0.8121144139091419,
+                    "FN": 360,
+                    "FP": 310,
+                    "IoU": 0.6836638338054769,
+                    "TN": 81482,
+                    "TP": 1448,
+                    "n_pred": 1758,
+                    "n_ref": 1808
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_368.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_368.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.89738430583501,
+                    "FN": 125,
+                    "FP": 232,
+                    "IoU": 0.8138686131386861,
+                    "TN": 56834,
+                    "TP": 1561,
+                    "n_pred": 1793,
+                    "n_ref": 1686
+                },
+                "2": {
+                    "Dice": 0.8797293140572132,
+                    "FN": 106,
+                    "FP": 285,
+                    "IoU": 0.785282811641955,
+                    "TN": 56931,
+                    "TP": 1430,
+                    "n_pred": 1715,
+                    "n_ref": 1536
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_375.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_375.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9323558813728757,
+                    "FN": 151,
+                    "FP": 52,
+                    "IoU": 0.8732833957553059,
+                    "TN": 58227,
+                    "TP": 1399,
+                    "n_pred": 1451,
+                    "n_ref": 1550
+                },
+                "2": {
+                    "Dice": 0.9157217284707324,
+                    "FN": 108,
+                    "FP": 167,
+                    "IoU": 0.8445449406444319,
+                    "TN": 58060,
+                    "TP": 1494,
+                    "n_pred": 1661,
+                    "n_ref": 1602
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_381.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_381.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9011857707509882,
+                    "FN": 289,
+                    "FP": 111,
+                    "IoU": 0.8201438848920863,
+                    "TN": 64976,
+                    "TP": 1824,
+                    "n_pred": 1935,
+                    "n_ref": 2113
+                },
+                "2": {
+                    "Dice": 0.8982611912689604,
+                    "FN": 70,
+                    "FP": 205,
+                    "IoU": 0.8153122901276024,
+                    "TN": 65711,
+                    "TP": 1214,
+                    "n_pred": 1419,
+                    "n_ref": 1284
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_385.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_385.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8908347927612376,
+                    "FN": 237,
+                    "FP": 137,
+                    "IoU": 0.8031578947368421,
+                    "TN": 51412,
+                    "TP": 1526,
+                    "n_pred": 1663,
+                    "n_ref": 1763
+                },
+                "2": {
+                    "Dice": 0.8877928483353884,
+                    "FN": 104,
+                    "FP": 169,
+                    "IoU": 0.7982261640798226,
+                    "TN": 51959,
+                    "TP": 1080,
+                    "n_pred": 1249,
+                    "n_ref": 1184
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_389.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_389.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9084249084249084,
+                    "FN": 150,
+                    "FP": 200,
+                    "IoU": 0.8322147651006712,
+                    "TN": 61868,
+                    "TP": 1736,
+                    "n_pred": 1936,
+                    "n_ref": 1886
+                },
+                "2": {
+                    "Dice": 0.8931686046511628,
+                    "FN": 137,
+                    "FP": 157,
+                    "IoU": 0.8069599474720945,
+                    "TN": 62431,
+                    "TP": 1229,
+                    "n_pred": 1386,
+                    "n_ref": 1366
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_390.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_390.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8995290423861853,
+                    "FN": 145,
+                    "FP": 239,
+                    "IoU": 0.8174037089871612,
+                    "TN": 54813,
+                    "TP": 1719,
+                    "n_pred": 1958,
+                    "n_ref": 1864
+                },
+                "2": {
+                    "Dice": 0.8834733893557423,
+                    "FN": 241,
+                    "FP": 175,
+                    "IoU": 0.7912694430506774,
+                    "TN": 54923,
+                    "TP": 1577,
+                    "n_pred": 1752,
+                    "n_ref": 1818
+                }
+            },
+            "prediction_file": "/data_hdd/users/zengzhilin/nnUNetV2_trained_models/Dataset004_Hippocampus/nnUNetTrainer_50epochs__nnUNetPlans__3d_fullres/fold_4/validation/hippocampus_393.nii.gz",
+            "reference_file": "/data_hdd/users/zengzhilin/nnUNet_preprocessed/Dataset004_Hippocampus/gt_segmentations/hippocampus_393.nii.gz"
+        }
+    ]
+}
